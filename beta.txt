@@ -1,0 +1,20 @@
+Ezequiel Pazos 23:10
+
+enp0s8: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.27  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 fe80::8322:b2b:2680:d03b  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:1b:73:15  txqueuelen 1000  (Ethernet)
+        RX packets 316525  bytes 478617517 (478.6 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 45789  bytes 3109769 (3.1 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 1026  bytes 80960 (80.9 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1026  bytes 80960 (80.9 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
