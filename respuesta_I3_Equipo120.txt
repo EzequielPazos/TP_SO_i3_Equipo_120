@@ -1,0 +1,18 @@
+Pazos Ezequiel
+
+BETA:
+a-El master(main) queda actualizado con os archivos y commits de las ramas mergeadas
+b-si
+c-git pull(actualizar el repo local)
+git checkout main(ir a la main)
+git merge Pazos
+
+GAMMA:
+d-No, quedan con los datos de que se pushearon en esa rama solo
+e-En una prueba de hacer merge aparecia un commit cuando hice el merge pero en la del tp no aparecio cuando hice el merge sin embargo las ramas se mergearon
+f-git pull(actualizar el repo local)
+ifconfig > beta.txt (datos del ifconfig al beta.txt)
+
+
+
+
