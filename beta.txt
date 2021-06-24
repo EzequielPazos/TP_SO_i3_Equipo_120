@@ -18,3 +18,24 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX packets 1026  bytes 80960 (80.9 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
+Jorge Guerra 03:13
+
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.25  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 fe80::bb5d:5d7e:45a0:bdbd  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:ba:eb:35  txqueuelen 1000  (Ethernet)
+        RX packets 30695  bytes 38657338 (38.6 MB)
+        RX errors 0  dropped 59  overruns 0  frame 0
+        TX packets 6885  bytes 944470 (944.4 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 652  bytes 66818 (66.8 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 652  bytes 66818 (66.8 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+
